@@ -138,6 +138,12 @@ RM motors at TIRUNELVELI
 ## OUTPUT
 
 <img width="960" alt="img2" src="https://github.com/Soorya7/NearMe/assets/105735689/1af2a961-1223-4109-a79a-a5b90fda9bf3">
+<img width="960" alt="ACADEMY" src="https://github.com/Soorya7/NearMe/assets/105735689/b393f598-ffea-4e7e-83cf-50267909860c">
+<img width="960" alt="courier" src="https://github.com/Soorya7/NearMe/assets/105735689/6bdb00d8-1601-45bd-9a24-6e297f460a25">
+<img width="960" alt="isro" src="https://github.com/Soorya7/NearMe/assets/105735689/5d74c71e-d777-4a2c-85a1-2b459d1a16f9">
+<img width="960" alt="motors" src="https://github.com/Soorya7/NearMe/assets/105735689/d7eeb7be-e96d-4b98-b3c5-7a7a3bb04ff3">
+<img width="960" alt="pet shop" src="https://github.com/Soorya7/NearMe/assets/105735689/6ad30148-653a-4c33-a0cb-0b732d28673d">
+
 
 
 
