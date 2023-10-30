@@ -137,6 +137,7 @@ RM motors at TIRUNELVELI
 ```
 ## OUTPUT
 
+<img width="960" alt="img2" src="https://github.com/Soorya7/NearMe/assets/105735689/1af2a961-1223-4109-a79a-a5b90fda9bf3">
 
 
 
